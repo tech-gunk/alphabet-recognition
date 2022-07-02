@@ -1,2 +1,2 @@
-# PRO-C122
-PRO-C122
+# Alphabet recognition
+Using cv2 and ml
